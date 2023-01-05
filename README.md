@@ -7,7 +7,7 @@ I'm a junior full stack web developer who recently graduated from Makers Academy
 ### Technology
 - HTML/CSS
 - JavaScript/Typescript (React, Express, Jest)
-- Ruby (Rspec, Sinatra
+- Ruby (Rspec, Sinatra)
 - Go (net/http library, gin, testing library + testify)
 
 ## Education
