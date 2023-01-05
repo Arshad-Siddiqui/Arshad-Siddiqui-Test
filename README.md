@@ -1,6 +1,6 @@
 # Arshad Siddiqui (Work in progress)
 
-I'm a junior full stack web developer who recently graduated from Makers Academy Bootcamp. A few months prior to bootcamp I was self teaching using online resources such as codecademy, freeCodeCamp and The Odin Project; where I had loads of fun learning syntax and how to think algorithmically about a problem. What drew me to the field was my passion for problem solving as well as its fast pace. At bootcamp is where I learned plenty of things which I didn't consider important at the time such as TDD, writing clean code as well as effective communication for working with a team. I also learnt how important larger projects were to learning as compared to 
+I'm a junior full stack web developer who recently graduated from Makers Academy Bootcamp. A few months prior to bootcamp I was self teaching using online resources such as codecademy, freeCodeCamp and The Odin Project; where I had loads of fun learning syntax and how to think algorithmically about a problem. What drew me to the field was my passion for problem solving as well as its fast pace. At bootcamp is where I learned plenty of things which I didn't consider important at the time such as TDD, writing clean code as well as effective communication for working with a team. I also learnt how important larger projects were to learning as compared to grinding away at problems on codewars.
 
 ## Skills
 
