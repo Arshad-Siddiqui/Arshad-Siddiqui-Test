@@ -6,20 +6,26 @@ I'm a junior full stack web developer who recently graduated from Makers Academy
 
 ### Technology
 - HTML/CSS
-- JavaScript/Typescript (React, Express, Jest
+- JavaScript/Typescript (React, Express, Jest)
+- Ruby (Rspec, Sinatra
 - Go (net/http library, gin, testing library + testify)
-- Git (github)
 
 ## Education
 
-### Makers Academy (September to December 2022)
+**Makers Academy (September to December 2022)**
 
 TDD, SOLID, MVC
 
-### University of Southampton (2017-2020)
+**University of Southampton (2017-2020)**
 
 BSC: Biochemistry
 
-### Barton Peveril College (2015-2017)
+**Barton Peveril College (2015-2017)**
 
 A Levels: Biology(A*), Chemistry(B), Maths(B)
+
+## Projects
+
+## Experience
+
+## Interests
