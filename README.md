@@ -14,7 +14,7 @@ What drew me to the field was my passion for problem solving as well as its fast
 - HTML/CSS
 - JavaScript/Typescript (React, Express, Jest)
 - Ruby (Rspec, Sinatra)
-- Go (net/http library, gin, testing library + testify)
+- Go (net/http library, gin, testing library + testify/Ginkgo)
 
 ## Education
 
