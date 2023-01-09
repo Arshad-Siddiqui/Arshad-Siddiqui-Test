@@ -3,6 +3,15 @@ I'm a junior full stack web developer who recently graduated from Makers Academy
 
 What drew me to the field was my passion for problem solving as well as its fast pace. At bootcamp is where I learned plenty of things which I didn't consider important at the time such as TDD, writing clean maintainable code as well as effective communication for working within a team. I also learnt how important building larger projects were to learning as compared to grinding away at problems on codewars.
 
+## Projects
+
+Name | Description | Stack | Build Time | Access
+-----|-------------|-------|------------|--------
+go-bank-tech-test | Tech test demonstrating process | Go (Ginkgo, Testify) | 3-4 days | [Repo](https://github.com/Arshad-Siddiqui/go-bank-tech-test)
+FriendZone | App for finding friends | Javascript (MERN, Vitest, useGesture, TailWind, BCrypt, Firebase) | 2 weeks, 6 people | [Repo](https://github.com/Dmum303/MERNsters-inc)
+
+## Experience
+
 ## Skills
 
 - **Team Player** - Always looking forward to helping others. Whether that be filling in knowledge gaps and ensuring everyone knows what each other is working on to even taking on the more challenging work and offering leadership where required.
@@ -29,13 +38,6 @@ BSC: Biochemistry
 
 A Levels: Biology(A*), Chemistry(B), Maths(B)
 
-## Projects
-
-Name | Description | Stack | Build Time | Access
------|-------------|-------|------------|--------
-go-bank-tech-test | Tech test demonstrating process | Go (Ginkgo, Testify) | 3-4 days | [Repo](https://github.com/Arshad-Siddiqui/go-bank-tech-test)
-FriendZone | App for finding friends | Javascript (MERN, Vitest, useGesture, TailWind, BCrypt, Firebase) | 2 weeks, 6 people | [Repo](https://github.com/Dmum303/MERNsters-inc)
-
-## Experience
-
 ## Interests
+
+🎮 🍿 🏋🏽
