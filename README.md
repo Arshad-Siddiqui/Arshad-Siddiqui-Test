@@ -28,6 +28,8 @@ FriendZone | App for finding friends | Javascript (MERN, Vitest, useGesture, Tai
 
 **Makers Academy (September to December 2022)**
 
+Took frequent part in pair programming for better sharing of knowledge.
+
 TDD, SOLID, MVC
 
 **University of Southampton (2017-2020)**
