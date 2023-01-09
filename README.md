@@ -10,9 +10,10 @@ What drew me to the field was my passion for problem solving as well as its fast
 
 Name | Description | Stack | Build Time | Access
 -----|-------------|-------|------------|--------
-go-bank-tech-test | Tech test demonstrating process | Go (Ginkgo, Testify) | 3-4 days | [Repo](https://github.com/Arshad-Siddiqui/go-bank-tech-test)
 FriendZone | App for finding friends | Javascript (MERN, Vitest, useGesture, TailWind, BCrypt, Firebase) | 2 weeks, 6 people | [Repo](https://github.com/Dmum303/MERNsters-inc)
 Acebook | Clone of facebook | Javascript (MERN, Jest, Firebase) | 2 weeks, 6 people | [Repo](https://github.com/Dmum303/acebook-team-bikini-bottom)
+Bank tech test | Tech test demonstrating process | Typescript (Jest) | 5 days | [Repo](https://github.com/Arshad-Siddiqui/bank-tech-test)
+Go bank tech test | Tech test demonstrating process | Go (Ginkgo, Testify) | 3-4 days | [Repo](https://github.com/Arshad-Siddiqui/go-bank-tech-test)
 
 ## Work Experience
 Iceland Foods (2017 - current)
