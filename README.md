@@ -32,6 +32,10 @@ A Levels: Biology(A*), Chemistry(B), Maths(B)
 
 ## Projects
 
+Name | Description | Stack | Build Time | Access
+-----|-------------|-------|------------|--------
+go-bank-tech-test | Tech test demonstrating process | Go (Ginkgo, Testify) | 3-4 days | [Repo](https://github.com/Arshad-Siddiqui/go-bank-tech-test)
+
 ## Experience
 
 ## Interests
