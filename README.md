@@ -34,6 +34,7 @@ A Levels: Biology(A*), Chemistry(B), Maths(B)
 Name | Description | Stack | Build Time | Access
 -----|-------------|-------|------------|--------
 go-bank-tech-test | Tech test demonstrating process | Go (Ginkgo, Testify) | 3-4 days | [Repo](https://github.com/Arshad-Siddiqui/go-bank-tech-test)
+FriendZone | App for finding friends | Javascript (MERN, Vitest, useGesture, TailWind, BCrypt, Firebase) | 2 weeks, 6 people | [Repo](https://github.com/Dmum303/MERNsters-inc)
 
 ## Experience
 
