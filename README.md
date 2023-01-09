@@ -19,7 +19,7 @@ Iceland Foods (2017 - current)
 
 Sales Assistant
 
-- Ensure effective communication with customers to share information in a polite adn efficient way.
+- Ensure effective communication with customers to share information in a polite and efficient way.
 
 ## Skills
 
