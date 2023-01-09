@@ -39,11 +39,15 @@ Sales Assistant
 
 Took frequent part in pair programming for better sharing of knowledge.
 
-TDD, SOLID, MVC
+- TDD, SOLID, MVC
+- Agile/XP
+- Ruby, Sinatra, 
 
 **University of Southampton (2017-2020)**
 
 BSC: Biochemistry
+
+Lab experience, writing papers and self-directed learning.
 
 **Barton Peveril College (2015-2017)**
 
@@ -51,4 +55,5 @@ A Levels: Biology(A*), Chemistry(B), Maths(B)
 
 ## Interests
 
-🎮 🍿 🏋🏽
+🏋 Helps bring balance to the lifestyle
+🎮 🍿 👨🏽‍💻 Created the lifestyle which needs to be balanced
