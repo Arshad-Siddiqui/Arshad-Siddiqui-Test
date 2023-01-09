@@ -32,6 +32,8 @@ Sales Assistant
 - JavaScript/Typescript (React, Express, Jest)
 - Ruby (Rspec, Sinatra)
 - Go (net/http library, gin, testing library + testify/Ginkgo)
+- MongoDb
+- Postgres
 
 ## Education
 
@@ -41,7 +43,8 @@ Took frequent part in pair programming for better sharing of knowledge.
 
 - TDD, SOLID, MVC
 - Agile/XP
-- Ruby, Sinatra, 
+- Ruby, Sinatra, Javascript
+- RSpec, Jest
 
 **University of Southampton (2017-2020)**
 
