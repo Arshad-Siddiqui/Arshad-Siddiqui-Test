@@ -1,10 +1,10 @@
 # Arshad Siddiqui (Work in progress) 🛠
 
-I'm a junior full stack web developer who recently graduated from Makers Academy Bootcamp. A few months prior, I was self teaching using online resources such as codecademy, freeCodeCamp and The Odin Project; where I had loads of fun learning syntax and how to think algorithmically about a problem.
+I'm a junior full stack web developer who recently graduated from Makers Academy Bootcamp. A few months prior, I was self teaching using online resources where I had loads of fun learning programming concepts, syntax and how to think algorithmically about a problem.
 
-At bootcamp is where I learned plenty of things which I didn't consider important at the time such as TDD, writing clean maintainable code as well as effective communication for working within a team. I also learnt how to build projects from scratch with other people.
+At bootcamp is where I learned TDD, writing clean maintainable code as well as effective communication for working within a team. I also learnt how to build projects from scratch collaboratively with git and pair programming.
 
-What drew me to the field was my passion for problem solving as well as its fast pace. I've also loved tech from a young age and would obsess about tech news due to how exciting and innovative the field is.
+What drew me to the field was my passion for problem solving as well as its fast pace. I've also loved tech from a young age and would obsess about tech news due to how exciting and innovative the field always is.
 
 ## Projects
 
@@ -12,8 +12,14 @@ Name | Description | Stack | Build Time | Access
 -----|-------------|-------|------------|--------
 go-bank-tech-test | Tech test demonstrating process | Go (Ginkgo, Testify) | 3-4 days | [Repo](https://github.com/Arshad-Siddiqui/go-bank-tech-test)
 FriendZone | App for finding friends | Javascript (MERN, Vitest, useGesture, TailWind, BCrypt, Firebase) | 2 weeks, 6 people | [Repo](https://github.com/Dmum303/MERNsters-inc)
+Acebook | Clone of facebook | Javascript (MERN, Jest, Firebase) | 2 weeks, 6 people | [Repo](https://github.com/Dmum303/acebook-team-bikini-bottom)
 
-## Experience
+## Work Experience
+Iceland Foods (2017 - current)
+
+Sales Assistant
+
+- Ensure effective communication with customers to share information in a polite adn efficient way.
 
 ## Skills
 
