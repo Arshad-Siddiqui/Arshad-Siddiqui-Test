@@ -23,9 +23,9 @@ Sales Assistant
 
 ## Skills
 
-- **Team Player** - Always looking forward to helping others. Whether that be filling in knowledge gaps and ensuring everyone knows what each other is working on to even taking on the more challenging work and offering leadership where required.
-- **Self motivation** - I set myself a goal to code every single day and make sure I am always improving as a developer. I recently took on the challenge of learning Go in order to produce performant, microservice style backends, as well as increase comfort writing in new languages/paradigms.
-- **Adaptable** - I love learning new stacks and incorporating concepts learnt from previous experience into them. For bootcamp I learnt Ruby fairly rapidly as well as spent two weeks learning the MERN stack in order to submit a project written in it at the end of the two weeks.
+- **Team Player** - In projects I am always looking forward to helping others, whether that be in filling knowledge and trying to get people over blockers, to taking on the more challenging work and offering leadership where required. This has lead to more of the team being able to work together and increase the speed at which we reach deadlines.
+- **Self motivation** - To improve as a developer I set a goal to code everyday. This has lead to me picking up patterns and concepts so regardless of the stack I am able to think and offer solutions to problems. I recently took on the challenge of learning Go in order to produce performant, microservice style backends, as well as increase comfort writing in new languages/paradigms.
+- **Adaptable** - I love learning new stacks and incorporating concepts learnt from previous experience into them. For bootcamp I learnt Ruby fairly rapidly as well as spent two weeks learning the MERN stack in order to submit a project written in it at the end of the two weeks. Ruby as a language is really simple and rarely gets in the way so was a great introductory language to learning testing which carried over to Javascript and Golang.
 
 ### Technology
 - HTML/CSS
