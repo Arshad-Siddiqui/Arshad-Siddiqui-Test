@@ -60,4 +60,5 @@ A Levels: Biology(A*), Chemistry(B), Maths(B)
 ## Interests
 
 🏋 Helps bring balance to the lifestyle
-🎮 🍿 👨🏽‍💻 Created the lifestyle which needs to be balanced
+🎮 Created the lifestyle which needs to be balanced
+📚 Sci-fi is probably my favourite.
