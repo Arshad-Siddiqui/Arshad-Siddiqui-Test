@@ -36,20 +36,21 @@ Sales Assistant
 - JavaScript/Typescript (React, Express, Jest)
 - Ruby (Rspec, Sinatra)
 - Go (net/http library, gin, testing library + testify/Ginkgo)
-- MongoDb
-- Postgres
+- MongoDb/Postgres
+- Firebase, Postman, Heroku
 
 ## Education
 
 **Makers Academy (September to December 2022)**
 
 Intense, highly selective, 16 week software bootcamp
-Took frequent part in pair programming for better sharing of knowledge.
 
-- TDD, SOLID, MVC
-- Agile/XP
-- Ruby, Sinatra, Javascript
-- RSpec, Jest
+- TDD, SOLID, MVC: Learnt processes and design patterns in order to write maintainable, compatible code.
+- Agile/XP: Using group work/pair programming, often whilst remote, in order to complete projects by a deadline.
+- Ruby, Sinatra, RSpec: Used this simple language to learn the fundamentals of coding that eased us into more complex work.
+- Javascript, Jest: Learnt how to use these for front and backend code.
+- Database management: Interacted with SQL as well as NoSQL databases through code as well as the command line in order to build projects with them. We created our own database management classes as well as used ODMs/ORMs to control the database.
+- MERN: 2/3 of our projects used this stack and we were able to make a facebook clone and friendmaking app similar to tinder.
 
 **University of Southampton (2017-2020)**
 
@@ -57,12 +58,14 @@ BSC: Biochemistry
 
 Lab experience, writing papers and self-directed learning.
 
+Improved research and communication skills by collaborating with others on the course.
+
 **Barton Peveril College (2015-2017)**
 
 A Levels: Biology(A*), Chemistry(B), Maths(B)
 
+Was able to further develop problem solving skills by learning scientific processes.
+
 ## Interests
 
-🏋 Helps bring balance to the lifestyle
-🎮 Created the lifestyle which needs to be balanced
-📚 Sci-fi is probably my favourite.
+Gym, videogames (shooters + fighting games), books (Sci-fi + Harry Potter), music
