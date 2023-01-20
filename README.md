@@ -14,7 +14,7 @@ FriendZone | App for finding friends | Javascript (MERN, Vitest, useGesture, Tai
 Acebook | Clone of facebook | Javascript (MERN, Jest, Firebase) | 2 weeks, 6 people | [Repo](https://github.com/Dmum303/acebook-team-bikini-bottom)
 Bank tech test | Tech test demonstrating process | Typescript (Jest) | 5 days | [Repo](https://github.com/Arshad-Siddiqui/bank-tech-test)
 Go bank tech test | Tech test demonstrating process | Go (Ginkgo, Testify) | 3-4 days | [Repo](https://github.com/Arshad-Siddiqui/go-bank-tech-test)
-Bowling challenge | Simple score card built with TDD | Typescript (Jest) | 3-4 days | [Repo](https://github.com/Arshad-Siddiqui/bowling-challenge)
+Bowling challenge | Simple score card built with TDD | Typescript (Jest)/Ruby (RSpec) | 3-4 days | [TS](https://github.com/Arshad-Siddiqui/bowling-challenge) [Ruby](https://github.com/Arshad-Siddiqui/bowling-challenge)
 
 ## Work Experience
 Iceland Foods (2017 - current)
@@ -22,6 +22,9 @@ Iceland Foods (2017 - current)
 Sales Assistant
 
 - Ensure effective communication with customers to share information in a polite and efficient way.
+- Maintain organisation to improve productivity of the next set of colleagues continuing the work.
+- Quickly adapt to store conditions in order to get the most critical work done first.
+- Use own intuition as well as know when to ask management questions in order to keep up efficiency.
 
 ## Skills
 
