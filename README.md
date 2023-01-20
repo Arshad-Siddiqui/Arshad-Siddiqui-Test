@@ -12,8 +12,10 @@ Name | Description | Stack | Build Time | Access
 -----|-------------|-------|------------|--------
 FriendZone | App for finding friends | Javascript (MERN, Vitest, useGesture, TailWind, BCrypt, Firebase) | 2 weeks, 6 people | [Repo](https://github.com/Dmum303/MERNsters-inc)
 Acebook | Clone of facebook | Javascript (MERN, Jest, Firebase) | 2 weeks, 6 people | [Repo](https://github.com/Dmum303/acebook-team-bikini-bottom)
+GoBnb | Clone of AirBnB | Go (Fiber/GORM) | Work in progress | [Repo](https://github.com/Arshad-Siddiqui/go-bnb)
 Bank tech test | Tech test demonstrating process | Typescript (Jest)/Go (Ginkgo) | 3-4 days | [TS](https://github.com/Arshad-Siddiqui/bank-tech-test) [Go](https://github.com/Arshad-Siddiqui/go-bank-tech-test)
 Bowling challenge | Simple score card built with TDD | Typescript (Jest)/Ruby (RSpec) | 3-4 days | [TS](https://github.com/Arshad-Siddiqui/bowling-challenge) [Ruby](https://github.com/Arshad-Siddiqui/bowling-challenge)
+Calculator | Calculator built with React | Typescript(Vite/Jest) Go(Fiber) | 7 days | [Repo](https://github.com/Arshad-Siddiqui/calculator)
 
 ## Work Experience
 Iceland Foods (2017 - current)
