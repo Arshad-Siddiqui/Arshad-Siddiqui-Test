@@ -12,8 +12,7 @@ Name | Description | Stack | Build Time | Access
 -----|-------------|-------|------------|--------
 FriendZone | App for finding friends | Javascript (MERN, Vitest, useGesture, TailWind, BCrypt, Firebase) | 2 weeks, 6 people | [Repo](https://github.com/Dmum303/MERNsters-inc)
 Acebook | Clone of facebook | Javascript (MERN, Jest, Firebase) | 2 weeks, 6 people | [Repo](https://github.com/Dmum303/acebook-team-bikini-bottom)
-Bank tech test | Tech test demonstrating process | Typescript (Jest) | 5 days | [Repo](https://github.com/Arshad-Siddiqui/bank-tech-test)
-Go bank tech test | Tech test demonstrating process | Go (Ginkgo, Testify) | 3-4 days | [Repo](https://github.com/Arshad-Siddiqui/go-bank-tech-test)
+Bank tech test | Tech test demonstrating process | Typescript (Jest)/Go (Ginkgo) | 3-4 days | [TS](https://github.com/Arshad-Siddiqui/bank-tech-test) [Go](https://github.com/Arshad-Siddiqui/go-bank-tech-test)
 Bowling challenge | Simple score card built with TDD | Typescript (Jest)/Ruby (RSpec) | 3-4 days | [TS](https://github.com/Arshad-Siddiqui/bowling-challenge) [Ruby](https://github.com/Arshad-Siddiqui/bowling-challenge)
 
 ## Work Experience
