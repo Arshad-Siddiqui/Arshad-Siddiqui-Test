@@ -39,9 +39,9 @@ Sales Assistant
 - HTML/CSS
 - JavaScript/Typescript (React, Express, Jest)
 - Ruby (Rspec, Sinatra)
-- Go (net/http library, gin, testing library + testify/Ginkgo)
+- Go (net/http library, Fiber, testing library + testify/Ginkgo)
 - MongoDb/Postgres
-- Firebase, Postman, Heroku
+- Firebase, Postman, Heroku, TablePlus
 
 ## Education
 
@@ -49,10 +49,10 @@ Sales Assistant
 
 Intense, highly selective, 16 week software bootcamp
 
-- TDD, SOLID, MVC: Learnt processes and design patterns in order to write maintainable, compatible code.
+- TDD, SOLID, MVC: Learnt processes and design patterns in order to write maintainable, collaborative code.
 - Agile/XP: Using group work/pair programming, often whilst remote, in order to complete projects by a deadline.
 - Ruby, Sinatra, RSpec: Used this simple language to learn the fundamentals of coding that eased us into more complex work.
-- Javascript, Jest: Learnt how to use these for front and backend code.
+- Javascript, Jest: Learnt how to use these for running in the browser as well as node.
 - Database management: Interacted with SQL as well as NoSQL databases through code as well as the command line in order to build projects with them. We created our own database management classes as well as used ODMs/ORMs to control the database.
 - MERN: 2/3 of our projects used this stack and we were able to make a facebook clone and friendmaking app similar to tinder.
 
