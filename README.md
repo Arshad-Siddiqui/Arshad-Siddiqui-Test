@@ -1,4 +1,4 @@
-# Arshad Siddiqui (Work in progress) 🛠
+# Arshad Siddiqui
 
 I'm a junior full stack web developer who recently graduated from Makers Academy Bootcamp. A few months prior, I was self teaching using online resources where I had loads of fun learning programming concepts, syntax and how to think algorithmically about a problem.
 
