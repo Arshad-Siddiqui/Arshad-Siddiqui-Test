@@ -42,6 +42,7 @@ Sales Assistant
 - Go (net/http library, Fiber, testing library + testify/Ginkgo)
 - MongoDb/Postgres
 - Firebase, Postman, Heroku, TablePlus
+- Docker
 
 ## Education
 
