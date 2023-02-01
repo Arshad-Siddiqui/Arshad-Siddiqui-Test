@@ -30,11 +30,26 @@ Sales Assistant
 
 ## Skills
 
-- **Team Player** - In projects I am always looking forward to helping others, whether that be filling in knowledge and trying to get people over blockers, to taking on the more challenging work and offering leadership where required. An example being when we were looking to add swipe functionality to an app, which none of us had experience with, and I strategically volunteered to learn and employ the tech for this which lead to the team being able to focus on solving other problems and increase our speed in order to reach a deadline.
-- **Self motivation** - To improve as a developer I set a goal to code everyday. This has lead to me picking up patterns and concepts so regardless of the stack I am able to think and offer solutions to problems. I recently took on the challenge of learning Go in order to produce performant, microservice style backends, as well as increase comfort writing in new languages/paradigms. I also enjoy educational media such as videos which help break down new concepts for me such as Docker and new language features.
-- **Adaptable** - I love learning new stacks as it solidifies my understanding of programming concepts. When making the transition back to Javascript I noticed how much of what you learn from a language can carry over. For example, TDD cemented from working with RSpec is something I now look to incorporate into all my future projects regardless of the language used. For bootcamp I learnt Ruby quite rapidly and spent two weeks learning the MERN stack in order to submit a project within a deadline.
-- **Problem solving** - In order to get a deeper understanding of how something works, I play around with it like how a tester or scientist would. This is really useful when it comes to bug fixing and allows already written code to be used in new creative ways.
-- **Attention to detail** - Whenever I find a solution, with version control, I comb over the changes and make sure only the necessary code gets added. Often times whilst experimenting, changes get made that don't do anything but ruin the tidyness of the codebase which this technique prevents. When reviewing a pull request I always test the merged code works before it reaches the main branch.
+**Team Player**
+- I enjoy filling in knowledge gaps and trying to get people over blockers, as well as taking on challenging work and offering leadership where required.
+- An example being when we were looking to add swipe functionality to an app, which none of us had experience with, and I strategically volunteered to learn and employ the tech for this which lead to the team being able to focus on solving other problems and increase our overall speed.
+
+**Self motived**
+- To improve as a developer I set a goal to code everyday. This has lead to me picking up patterns and concepts so regardless of the stack I am able to think and offer solutions to problems.
+- I recently took on the challenge of learning Go in order to produce performant, microservice style backends, as well as increase comfort writing in new languages/paradigms. I also enjoy educational media such as videos which help break down new concepts for me such as Docker and new language features.
+- I have a desire to be a great, well rounded developer so I can offer more help to others.
+
+**Adaptable**
+- I love learning new stacks as it solidifies my understanding of programming concepts.
+- At Makers I learnt Ruby quite rapidly and spent two weeks learning the MERN stack in order to submit a project within a deadline.
+- I enjoy writing front and backend code and have a strong interest in learning things outside these two fields.
+
+**Problem solver**
+- In order to get a deeper understanding of how something works, I play around with it like how a tester or scientist would. This is really useful when it comes to bug fixing and allows already written code to be used in new creative ways.
+
+**Great attention to detail**
+- With version control, I comb over the changes and make sure only the solution code gets added.
+- When reviewing a pull request I always test the merged code works before it reaches the main branch.
 
 ### Technology
 - HTML/CSS
