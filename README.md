@@ -1,5 +1,7 @@
 # Arshad Siddiqui ([ferozarshad123@gmail.com](mailto:ferozarshad123@gmail.com))
 
+[About Me](#about-me) | [Projects](#projects) | [Experience](#work-experience) | [Skills](#skills) | [Technology](#technology) | [Education](#education)
+
 ## About Me
 
 A highly inquisitive and enthusiastic recent graduate from Makers Academy, bringing a strong foundation in full-stack web development to the table. Previously, I honed my skills through self-study and online resources, gaining a solid understanding of programming fundamentals and algorithmic problem-solving. My time at Makers Academy further developed these skills, as I learned best practices for writing clean code and collaborated with a team to build full-stack projects.
