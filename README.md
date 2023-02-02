@@ -25,7 +25,7 @@ Iceland Foods (2017 - current)
 Sales Assistant
 
 - Ensure effective communication with customers to share information in a polite and efficient way.
-- Maintain organisation to improve productivity me and my colleagues.
+- Maintain organisation to improve productivity for me and my colleagues.
 - Quickly adapt to store conditions and correctly prioritise the most critical work.
 
 ## Skills
@@ -46,6 +46,7 @@ Sales Assistant
 
 **Problem solver**
 - In order to get a deeper understanding of how something works, I play around with it like how a tester or scientist would. This is really useful when it comes to bug fixing and allows already written code to be used in new creative ways.
+- I try and select more difficult tickets in order to speed up my improvement.
 
 **Great attention to detail**
 - With version control, I comb over the changes and make sure only the solution code gets added.
