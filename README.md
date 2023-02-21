@@ -4,7 +4,7 @@
 
 ## About Me
 
-A highly inquisitive and enthusiastic recent graduate from Makers Academy, bringing a strong foundation in full-stack web development to the table. Previously, I honed my skills through self-study and online resources, gaining a solid understanding of programming fundamentals and algorithmic problem-solving. My time at Makers Academy further developed these skills, as I learned best practices for writing clean code and collaborated with a team to build full-stack projects.
+A highly inquisitive and enthusiastic software developer and recent graduate from Makers Academy, bringing a strong foundation in full-stack web development to the table. Previously, I honed my skills through self-study and online resources, gaining a solid understanding of programming fundamentals and algorithmic problem-solving. My time at Makers Academy further developed these skills, as I learned best practices for writing clean code and collaborated with a team to build full-stack projects which also helped boost my communication and teamwork skills
 
 What made me want to become a developer was my passion for problem solving and how you can learn in a variety of creative ways. Similar to science, you're encouraged to explore and play with things to get a deeper understanding. I've also loved tech from a young age and would get excited due to how  innovative the field is.
 
