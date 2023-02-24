@@ -4,9 +4,11 @@
 
 ## About Me
 
-A highly inquisitive and enthusiastic software developer and recent graduate from Makers Academy, bringing a strong foundation in full-stack web development to the table. Previously, I honed my skills through self-study and online resources, gaining a solid understanding of programming fundamentals and algorithmic problem-solving. My time at Makers Academy further developed these skills, as I learned best practices for writing clean code and collaborated with a team to build full-stack projects which also helped boost my communication and teamwork skills
+A highly inquisitive and enthusiastic software developer and recent graduate from Makers Academy, bringing a strong foundation in full-stack web development to the table. Previously, I honed my skills through self-study with online resources, gaining a solid understanding of programming fundamentals, such as OOP and efficient algorithm creation.
 
-What made me want to become a developer was my passion for problem solving and how you can learn in a variety of creative ways. Similar to science, you're encouraged to explore and play with things to get a deeper understanding. I've also loved tech from a young age and would get excited due to how  innovative the field is.
+My time at Makers Academy further developed these skills, as I learned best practices for writing clean code and collaborated with teams to build full-stack projects which also helped boost my communication and teamwork skills.
+
+What made me want to become a developer was my passion for problem solving and how you're able to learn first hand by doing. Also the flexibility it enables as well as the large, helpful community surrounding it.
 
 ## Projects
 
@@ -24,6 +26,8 @@ Iceland Foods (2017 - current)
 
 Sales Assistant
 
+- Manage tills, put out stock and prepare deliveries.
+- Check products are in date and ensure inventory count is accurate.
 - Ensure effective communication with customers to share information in a polite and efficient way.
 - Maintain organisation to improve productivity for me and my colleagues.
 - Quickly adapt to store conditions and correctly prioritise the most critical work.
@@ -34,13 +38,13 @@ Sales Assistant
 - I enjoy filling in knowledge gaps and trying to get people over blockers, as well as taking on challenging work and offering leadership where required.
 - An example being when we were looking to add swipe functionality to an app, which none of us had experience with, and I strategically volunteered to learn and employ the tech for this which lead to the team being able to focus on solving other problems and increase our overall speed.
 
-**Self motived**
+**Self motivated**
 - To improve as a developer I set a goal to code everyday. This has lead to me picking up patterns and concepts so regardless of the stack I am able to think and offer solutions to problems.
 - I recently took on the challenge of learning Go in order to produce performant, microservice style backends, as well as increase comfort writing in new languages/paradigms. I also enjoy educational media such as videos which help break down new concepts for me such as Docker and new language features.
 - I have a desire to be a great, well rounded developer so I can offer more help to others.
 
 **Adaptable**
-- I love learning new stacks as it solidifies my understanding of programming concepts.
+- In my final Makers project I was predominantly working in the backend 
 - At Makers I learnt Ruby quite rapidly and spent two weeks learning the MERN stack in order to submit a project within a deadline.
 - I enjoy writing front and backend code and have a strong interest in learning things outside these two fields.
 
@@ -48,9 +52,9 @@ Sales Assistant
 - In order to get a deeper understanding of how something works, I play around with it like how a tester or scientist would. This is really useful when it comes to bug fixing and allows already written code to be used in new creative ways.
 - I try and select more difficult tickets in order to speed up my improvement.
 
-**Great attention to detail**
-- With version control, I comb over the changes and make sure only the solution code gets added.
-- When reviewing a pull request I always test the merged code works before it reaches the main branch.
+**Attention to detail**
+- With version control, I comb over the changes and make sure only the solution code gets added. When reviewing a pull request I always test the merged code works before it reaches the main branch.
+- When filling stock I 
 
 ### Technology
 - HTML/CSS
