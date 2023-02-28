@@ -44,17 +44,15 @@ Sales Assistant
 - I have a desire to be a great, well rounded developer so I can offer more help to others.
 
 **Adaptable**
-- In my final Makers project I was predominantly working in the backend 
-- At Makers I learnt Ruby quite rapidly and spent two weeks learning the MERN stack in order to submit a project within a deadline.
-- I enjoy writing front and backend code and have a strong interest in learning things outside these two fields.
+- In my final Makers project I was predominantly working in the backend until issues arised in the frontend to which I had to quickly re-adjust myself.
+- I learnt Ruby quite rapidly and spent two weeks learning the MERN stack in order to submit a project within a deadline.
 
 **Problem solver**
-- In order to get a deeper understanding of how something works, I play around with it like how a tester or scientist would. This is really useful when it comes to bug fixing and allows already written code to be used in new creative ways.
+- I've learnt to experiment with code to properly deduce why problems occur.
 - I try and select more difficult tickets in order to speed up my improvement.
 
 **Attention to detail**
 - With version control, I comb over the changes and make sure only the solution code gets added. When reviewing a pull request I always test the merged code works before it reaches the main branch.
-- When filling stock I 
 
 ### Technology
 - HTML/CSS
