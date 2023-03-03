@@ -4,11 +4,9 @@
 
 ## About Me
 
-A highly inquisitive and enthusiastic software developer and recent graduate from Makers Academy, bringing a strong foundation in full-stack web development to the table. Previously, I honed my skills through self-study with online resources, gaining a solid understanding of programming fundamentals, such as OOP and efficient algorithm creation.
+A highly inquisitive and enthusiastic software developer and recent graduate from Makers Academy, bringing a strong foundation in full-stack web development to the table. Previously, I honed my skills through self-study with online resources, gaining a solid understanding of programming fundamentals, such as OOP and efficient algorithm creation. My time at Makers Academy further developed these skills, as I learned best practices for writing clean, test driven code as well as collaborated in groups to build full-stack projects which also helped boost my communication and teamwork skills.
 
-My time at Makers Academy further developed these skills, as I learned best practices for writing clean code and collaborated with teams to build full-stack projects which also helped boost my communication and teamwork skills.
-
-What made me want to become a developer was my passion for problem solving and how you're able to learn first hand by doing. Also the flexibility it enables as well as the large, helpful community surrounding it.
+What made me want to become a developer was how accessible and vast the resources are for learning it and there are always ways to improve. The problem solving loop is also very engaging due to how rewarding it is to the results each time.
 
 ## Projects
 
@@ -26,20 +24,20 @@ Iceland Foods (2017 - current)
 
 Sales Assistant
 
-- Manage tills, put out stock and prepare deliveries.
-- Check products are in date and ensure inventory count is accurate.
 - Ensure effective communication with customers to share information in a polite and efficient way.
 - Maintain organisation to improve productivity for me and my colleagues.
 - Quickly adapt to store conditions and correctly prioritise the most critical work.
+- Manage tills, put out stock and prepare deliveries.
+- Check products are in date and ensure inventory count is accurate.
 
 ## Skills
 
 **Team Player**
-- I enjoy filling in knowledge gaps and trying to get people over blockers, as well as taking on challenging work and offering leadership where required.
-- An example being when we were looking to add swipe functionality to an app, which none of us had experience with, and I strategically volunteered to learn and employ the tech for this which lead to the team being able to focus on solving other problems and increase our overall speed.
+- In group projects I try and get people over blockers, as well as taking on challenging work and offering leadership where required.
+- An example being when we were looking to add swipe functionality to an [app](https://github.com/Dmum303/MERNsters-inc), which none of us had experience with, and I strategically volunteered to learn and employ the tech for this which lead to the team being able to focus on solving other problems and increase our overall speed.
 
 **Self motivated**
-- To improve as a developer I set a goal to code everyday. This has lead to me picking up patterns and concepts so regardless of the stack I am able to think and offer solutions to problems.
+- I'm always working on side projects with the goals of widening my knowledge as well as polishing skills I feel need improvement. For example, I took on the goal of creating a multiplayer Monopoly game which will use WebSockets, which is new to me, and will also use CSS grid and the useDrag library which I have used before but need improvement on. This has lead to me picking up patterns and concepts so regardless of the stack I am able to think and offer solutions to problems. For example, learning testing and API structure using Ruby I was able to quickly recognise similar patterns in doing the same with Javascript in an express based app.
 - I recently took on the challenge of learning Go in order to produce performant, microservice style backends, as well as increase comfort writing in new languages/paradigms. I also enjoy educational media such as videos which help break down new concepts for me such as Docker and new language features.
 - I have a desire to be a great, well rounded developer so I can offer more help to others.
 
