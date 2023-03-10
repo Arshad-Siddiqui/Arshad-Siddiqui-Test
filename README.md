@@ -18,6 +18,7 @@ What made me want to become a developer was the fun and engaging problem solving
 | Bank tech test    | Tech test demonstrating process  | Typescript (Jest)/Go (Ginkgo)                                     | 3-4 days          | [TS](https://github.com/Arshad-Siddiqui/bank-tech-test) [Go](https://github.com/Arshad-Siddiqui/go-bank-tech-test)      |
 | Bowling challenge | Simple score card built with TDD | Typescript (Jest)/Ruby (RSpec)                                    | 3-4 days          | [TS](https://github.com/Arshad-Siddiqui/bowling-challenge) [Ruby](https://github.com/Arshad-Siddiqui/bowling-challenge) |
 | Calculator        | Calculator built with React      | Typescript(Vite/Jest) Go(Fiber)                                   | 7 days            | [Repo](https://github.com/Arshad-Siddiqui/calculator)                                                                   |
+| Monopoly          | Multiplayer Monopoly game        | Typescript (React, Node, Express, Socket.io, Jest)                | Work in progress  | [Repo](https://github.com/Arshad-Siddiqui/tech-monopoly)                                                                |
 
 ## Work Experience
 
@@ -38,34 +39,34 @@ Sales Assistant
 - In group projects I try and get people over blockers, as well as taking on challenging work and offering leadership where required.
 - An example being when we were looking to add swipe functionality to an [app](https://github.com/Dmum303/MERNsters-inc), which none of us had experience with, and I strategically volunteered to learn and employ the tech for this which lead to the team being able to focus on solving other problems and increase our overall speed.
 - When staff members go sick I am often asked to cover their shifts as I am reliable and can be trusted to do the job well.
-- In labs where we were given a task to complete in a group, I would often work equally with everyone to ensure we all understood the task and could complete it.
+- In labs where we were given a task to complete in a group, I would work flexibly to what the team needed, whether that be taking on a leadership role or helping others with their work.
 
 **Self motivated**
 
-- I'm always working on side projects with the goals of widening my knowledge as well as polishing skills I feel need improvement. For example, I took on the goal of creating a multiplayer Monopoly game which will use WebSockets, which is new to me, and will also use CSS grid and the useDrag library which I have used before but need improvement on. Overall, this has lead to me picking up patterns and concepts so regardless of the stack I am able to think and offer solutions to problems. For example, learning testing and API structure using Ruby meant I was able to quickly pick up the same in Javascript.
+- I'm always working on side projects with the goals of widening my knowledge as well as polishing skills I feel need improvement. For example, I took on the goal of creating a multiplayer Monopoly game which is a big step up from creating CRUD applications. Overall, this has lead to me picking up patterns and concepts so regardless of the stack I am able to think and offer solutions to problems. For example, learning testing and API structure using Ruby meant I was able to quickly pick up the same in Javascript.
 - I recently took on the challenge of learning Go in order to produce performant, microservice style backends, as well as increase comfort writing in new languages/paradigms. I also enjoy educational media such as videos which help break down new concepts for me such as Docker and new language features.
-- I have a desire to be a great, well rounded developer so I can offer more help to others.
 
 **Adaptable**
 
-- In my final Makers project I was predominantly working in the backend until issues arised in the frontend to which I had to quickly re-adjust myself.
+- In my final Makers project I was predominantly working in the backend until issues arised in the frontend to which I had to quickly re-adjust myself and offer help.
 - I learnt Ruby quite rapidly and spent two weeks learning the MERN stack in order to submit a project within a deadline.
 
 **Problem solver**
 
-- I've learnt to experiment with code to properly deduce why problems occur.
 - I try and select more difficult tickets in order to speed up my improvement.
 
 **Attention to detail**
 
-- With version control, I comb over the changes and make sure only the solution code gets added. When reviewing a pull request I always test the merged code works before it reaches the main branch.
+- I thoroughly test merged code before pushing to the main branch. I always make sure my contributions only do what they are supposed to do and don't break anything else.
+- Usually a high degree of precision is required in order to collect lab results, which I was able to do by carefully following instructions and double checking my work. Otherwise small mistakes would add up and correlations would be missed.
+- At icelands,
 
 ### Technology
 
 - HTML/CSS
 - JavaScript/Typescript (React, Node, Express, Jest)
 - Ruby (Rspec, Sinatra)
-- Go (net/http library, Fiber, testing library + testify/Ginkgo)
+- Go (net/http library, Fiber, testing library + testify/Ginkgo, GORM)
 - MongoDb/Postgres
 - Firebase, Postman, Heroku, TablePlus
 - Docker
