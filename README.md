@@ -55,7 +55,7 @@ Sales Assistant
 - I thoroughly test merged code before pushing to the main branch. I always make sure my contributions only do what they are supposed to do and don't break anything else.
 - Usually a high degree of precision is required in order to collect lab results, which I was able to do by carefully following instructions and double checking my work. Otherwise small mistakes would add up and correlations would be missed.
 - At my retail job, I am often asked to check the stock count as I am able to spot mistakes and inconsistencies.
-- Having code that simply works isn't enough for me, I like to make sure it is as efficient as possible and that it is easy to read and understand. When completing the 'Bank Tech Test' I employed SOLID and OOP principles. An example being dependency injection which allows for easily testable code as well as .
+- Having code that simply works isn't enough for me, I like to make sure it is as efficient as possible and that it is easy to read and understand. When completing the 'Bank Tech Test' I employed SOLID and OOP principles. An example being dependency injection which allows for easily testable code as well as increased modularity.
 
 ### Technology
 
