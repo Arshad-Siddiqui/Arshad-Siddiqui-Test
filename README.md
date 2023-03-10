@@ -53,7 +53,7 @@ Sales Assistant
 
 **Attention to detail**
 
-- I thoroughly test merged code before pushing to the main branch. I always make sure my contributions only do what they are supposed to do and don't break anything else.
+- I thoroughly test merged code before pushing to the main branch. I always make sure my contributions only do what they are supposed to do and don't break anything else. I am also very strict with following the style guide such as with commit names and file structure.
 - Usually a high degree of precision is required in order to collect lab results, which I was able to do by carefully following instructions and double checking my work. Otherwise small mistakes would add up and correlations would be missed.
 - At my retail job, I am often asked to check the stock count as I am able to spot mistakes and inconsistencies. I am often given the responsibility of re-organising the stock room as I am able to quickly find the most efficient way to do so.
 - Having code that simply works isn't enough for me, I like to make sure it is as efficient as possible and that it is easy to read and understand. When completing the 'Bank Tech Test' I employed SOLID and OOP principles. An example being dependency injection which allows for easily testable code as well as increased modularity.
