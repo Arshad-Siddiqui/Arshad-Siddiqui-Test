@@ -90,6 +90,8 @@ BSC: Biochemistry
 
 Lab experience, writing papers and self-directed learning.
 
+Dissertation: ​​Screen of known kinase inhibitors to eEF2K homology model with structure analysis.​ (Used computers to model the structure of a protein and then used this to screen for inhibitors)
+
 Improved research and communication skills by collaborating with others on the course.
 
 **Barton Peveril College (2015-2017)**
