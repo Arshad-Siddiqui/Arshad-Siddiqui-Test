@@ -44,11 +44,12 @@ Sales Assistant
 **Self motivated**
 
 - I'm always working on side projects with the goals of widening my knowledge as well as polishing skills I feel need improvement. For example, I took on the goal of creating a multiplayer Monopoly game which is a big step up from creating CRUD applications. Overall, this has lead to me picking up patterns and concepts so regardless of the stack I am able to think and offer solutions to problems. For example, learning testing and API structure using Ruby meant I was able to quickly pick up the same in Javascript.
-- I recently took on the challenge of learning Go in order to produce performant, microservice style backends, as well as increase comfort writing in new languages/paradigms. I also enjoy educational media such as videos which help break down new concepts for me such as Docker and new language features.
+- I recently took on the challenge of learning Go in order to produce performant, microservice style backends, as well as increase comfort writing in new languages/paradigms.
+- To keep myself immersed in this field I follow a number of blogs and YouTube channels. This helps me stay up to date with the latest trends and technologies as well as learn new concepts and techniques. For example, my understanding of the importance of docker and microservices was greatly improved by watching these type of videos.
 
 **Adaptable**
 
-- When teaching myself coding I found that I had a natural aptitude for it. This meant I was able to quickly adapt to Makers Academy's curriculum and was able to pick up new concepts and technologies quickly. This made the transition from Typescript to Ruby (and then to Go) much easier than I expected.
+- When teaching myself coding I found that I had a natural aptitude for it. This meant I was able to quickly adapt to Makers Academy's curriculum and was able to pick up new concepts and technologies quickly. This made the transition from Javascript to Ruby (and then to Go) much easier than I expected. This allowed me to offer help to others when working in a language I have never used before.
 
 **Attention to detail**
 
