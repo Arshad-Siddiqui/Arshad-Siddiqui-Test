@@ -36,10 +36,10 @@ Sales Assistant
 
 **Team Player**
 
-- In group projects I try and get people over blockers, as well as taking on challenging work and offering leadership where required.
-- An example being when we were looking to add swipe functionality to an [app](https://github.com/Dmum303/MERNsters-inc), which none of us had experience with, and I strategically volunteered to learn and employ the tech for this which lead to the team being able to focus on solving other problems and increase our overall speed.
-- When staff members go sick I am often asked to cover their shifts as I am reliable and can be trusted to do the job well.
-- In labs where we were given a task to complete in a group, I would work flexibly to what the team needed, whether that be taking on a leadership role or helping others with their work.
+- I always try and be helpful. An example being when we were looking to add swipe functionality to an [app](https://github.com/Dmum303/MERNsters-inc), which none of us had experience with, and I strategically volunteered to learn and employ the tech for this which lead to the team being able to focus on solving other problems and increase our overall speed.
+- In labs where we were given a task to complete in a group, I would work flexibly to what the team needed. That includes taking on more challenging work and offering leadership where required.
+- Whenever I find a useful resource that helped me I would share it with the team so we could all benefit from it. Usually this would be a blog post or video that explained a concept in a way that made sense to me.
+- At Iceland's I am capable of working in most roles and am able to adapt to any situation. Whether that be quickly helping out a busy till or working in the backroom to help with deliveries. This also means when staff members go sick I am often asked to cover their shifts as I am reliable and can be trusted to do the job well.
 
 **Self motivated**
 
@@ -48,18 +48,14 @@ Sales Assistant
 
 **Adaptable**
 
-- In my final Makers project I was predominantly working in the backend until issues arised in the frontend to which I had to quickly re-adjust myself and offer help.
-- I learnt Ruby quite rapidly and spent two weeks learning the MERN stack in order to submit a project within a deadline.
-
-**Problem solver**
-
-- I try and select more difficult tickets in order to speed up my improvement.
+- When teaching myself coding I found that I had a natural aptitude for it. This meant I was able to quickly adapt to Makers Academy's curriculum and was able to pick up new concepts and technologies quickly. This made the transition from Typescript to Ruby (and then to Go) much easier than I expected.
 
 **Attention to detail**
 
 - I thoroughly test merged code before pushing to the main branch. I always make sure my contributions only do what they are supposed to do and don't break anything else.
 - Usually a high degree of precision is required in order to collect lab results, which I was able to do by carefully following instructions and double checking my work. Otherwise small mistakes would add up and correlations would be missed.
-- At icelands,
+- At my retail job, I am often asked to check the stock count as I am able to spot mistakes and inconsistencies.
+- Having code that simply works isn't enough for me, I like to make sure it is as efficient as possible and that it is easy to read and understand. When completing the 'Bank Tech Test' I employed SOLID and OOP principles. An example being dependency injection which allows for easily testable code as well as .
 
 ### Technology
 
