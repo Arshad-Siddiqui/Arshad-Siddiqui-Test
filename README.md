@@ -4,9 +4,9 @@
 
 ## About Me
 
-A highly inquisitive and enthusiastic software developer and recent graduate from Makers Academy, bringing a strong foundation in full-stack web development to the table. Previously, I honed my skills through self-study with online resources, gaining a solid understanding of programming fundamentals, such as OOP and efficient algorithm creation. My time at Makers Academy further developed these skills, as I learned best practices for writing clean, test driven code as well as collaborated in groups to build full-stack projects which also helped boost my communication and teamwork skills.
+A highly inquisitive and enthusiastic software developer and recent graduate from Makers Academy, bringing in a strong foundation in full-stack web development. Previously, I honed my skills through self-study with online resources, gaining a solid understanding of programming fundamentals. My time at Makers Academy further developed these skills, as I learned best practices for writing clean, test driven code as well as collaborated in groups to build full-stack projects which helped boost my communication and teamwork skills.
 
-What made me want to become a developer was the fun and engaging problem solving loop that rewards you for learning and improving. The vast resources available for learning it are very accessible so I was able to experience coding at a young age and have been hooked ever since. I'm looking for a role where I can continue to learn and improve my skills as well as help others do the same.
+What made me want to become a developer was the fun and engaging problem solving loop that rewards you for learning from mistakes. The vast resources available for learning it are very accessible so I was able to experience coding at a young age and have been hooked ever since. I'm looking for a role where I can continue to learn and improve my skills as well as help others do the same.
 
 ## Projects
 
@@ -37,14 +37,14 @@ Sales Assistant
 **Team Player**
 
 - I always try and be helpful. An example being when we were looking to add swipe functionality to an [app](https://github.com/Dmum303/MERNsters-inc), which none of us had experience with, and I strategically volunteered to learn and employ the tech for this which lead to the team being able to focus on solving other problems and increase our overall speed.
-- In labs where we were given a task to complete in a group, I would work flexibly to what the team needed. That includes taking on more challenging work and offering leadership where required.
 - Whenever I find a useful resource that helped me I would share it with the team so we could all benefit from it. Usually this would be a blog post or video that explained a concept in a way that made sense to me.
-- At Iceland's I am capable of working in most roles and am able to adapt to any situation. Whether that be quickly helping out a busy till or working in the backroom to help with deliveries. This also means when staff members go sick I am often asked to cover their shifts as I am reliable and can be trusted to do the job well.
+- In labs where we were given a task to complete in a group, I would work flexibly to what the team needed. That includes taking on more challenging work and offering leadership where required.
+- At Iceland's I am capable of working in most roles and am able to adapt to any situation. This also means when staff members go sick I am often asked to cover their shifts as I am reliable and can be trusted to do the job well.
 
 **Self motivated**
 
-- I'm always working on side projects with the goals of widening my knowledge as well as polishing skills I feel need improvement. For example, I took on the goal of creating a multiplayer Monopoly game which is a big step up from creating CRUD applications. Overall, this has lead to me picking up patterns and concepts so regardless of the stack I am able to think and offer solutions to problems. For example, learning testing and API structure using Ruby meant I was able to quickly pick up the same in Javascript.
-- I recently took on the challenge of learning Go in order to produce performant, microservice style backends, as well as increase comfort writing in new languages/paradigms.
+- I'm always working on side projects with the goals of widening my knowledge. For example, I took on the goal of creating a multiplayer Monopoly game which is a big step up from creating CRUD applications. Overall, challenging myself regularly keeps me engaged and helps me learn new skills.
+- I recently took on the challenge of learning Go in order to produce performant, microservice style backends, as well as increase comfort writing in new languages/paradigms. Go is a slightly less popular language meaning resources for learning it are limited so I had to improve my ability to learn from documentation.
 - To keep myself immersed in this field I follow a number of blogs and YouTube channels. This helps me stay up to date with the latest trends and technologies as well as learn new concepts and techniques. For example, my understanding of the importance of docker and microservices was greatly improved by watching these type of videos.
 
 **Adaptable**
@@ -56,7 +56,7 @@ Sales Assistant
 - I thoroughly test merged code before pushing to the main branch. I always make sure my contributions only do what they are supposed to do and don't break anything else. I am also very strict with following the style guide such as with commit names and file structure.
 - Usually a high degree of precision is required in order to collect lab results, which I was able to do by carefully following instructions and double checking my work. Otherwise small mistakes would add up and correlations would be missed.
 - At my retail job, I am often asked to check the stock count as I am able to spot mistakes and inconsistencies. I am often given the responsibility of re-organising the stock room as I am able to quickly find the most efficient way to do so.
-- Having code that simply works isn't enough for me, I like to make sure it is as efficient as possible and that it is easy to read and understand. When completing the 'Bank Tech Test' I employed SOLID and OOP principles. An example being dependency injection which allows for easily testable code as well as increased modularity.
+- Having code that simply works isn't enough for me, I like to make sure it is as efficient as possible and that it is easy to read and understand. When completing the 'Bank Tech Test' I employed SOLID and OOP principles. An example being dependency injection which allowed me to write easily testible code that was also modular which overall is more maintainable.
 
 ### Technology
 
