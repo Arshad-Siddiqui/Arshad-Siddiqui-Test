@@ -57,11 +57,12 @@ Sales Assistant
 - I thoroughly test merged code before pushing to the main branch. I always make sure my contributions only do what they are supposed to do and don't break anything else. I am also very strict with following the style guide such as with commit names and file structure.
 - Usually a high degree of precision is required in order to collect lab results, which I was able to do by carefully following instructions and double checking my work. Otherwise small mistakes would add up and correlations would be missed.
 - At my retail job, I am often asked to check the stock count as I am able to spot mistakes and inconsistencies. I am often given the responsibility of re-organising the stock room as I am able to quickly find the most efficient way to do so.
-- Having code that simply works isn't enough for me, I like to make sure it is as efficient as possible and that it is easy to read and understand. When completing the 'Bank Tech Test' I employed SOLID and OOP principles. An example being dependency injection which allowed me to write easily testible code that was also modular which overall is more maintainable.
+- Having code that simply works isn't enough for me, I like to make sure it is as efficient as possible, whilst also being maintainable, and that it is easy to read and understand. When completing the 'Bank Tech Test' I employed SOLID and OOP principles which overall made the code easier to extend and maintain.
 
 **Customer focused**
 
-- I am able to empathise with customers and understand their needs. This allows me to provide them with the best possible service.
+- Conversing with many customers daily has helped me develop my communication skills. My strong pattern recognition skills helps me anticipate a customer's needs allowing me to help them more efficiently.
+- I keep to company policy despite the fact that it can be frustrating for customers. This is because I understand that it is important to follow the rules in order to maintain a good reputation and keep the business running smoothly.
 
 ### Technology
 
@@ -92,7 +93,7 @@ BSC: Biochemistry
 
 Lab experience, writing papers and self-directed learning.
 
-Dissertation: ​​Screen of known kinase inhibitors to eEF2K homology model with structure analysis.​ (Used computers to model the structure of a protein and then used this to screen for inhibitors)
+Dissertation: ​​Screen of known kinase inhibitors to eEF2K homology model with structure analysis.​ (Used computers to model the structure of a protein and then used this to screen for inhibitors as a potential treatment for cancer.)
 
 Improved research and communication skills by collaborating with others on the course.
 
