@@ -105,4 +105,5 @@ Was able to further develop problem solving skills by learning scientific proces
 
 ## Interests
 
-Exercise, Videogames, Audiobooks, Music
+Exercise, Videogames, Music
+Audiobooks: Project Hail Mary, Bobbiverse and Harry Potter series.
