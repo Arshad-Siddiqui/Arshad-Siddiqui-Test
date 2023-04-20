@@ -37,8 +37,8 @@ Sales Assistant
 
 **Team Player**
 
-- I always try and be helpful. An example being when we were looking to add swipe functionality to an [app](https://github.com/Dmum303/MERNsters-inc), which none of us had experience with, and I strategically volunteered to learn and employ the tech for this which lead to the team being able to focus on solving other problems and increase our overall speed.
-- Whenever I find a useful resource that helped me I would share it with the team so we could all benefit from it. Usually this would be a blog post or video that explained a concept in a way that made sense to me.
+- I always try and be helpful. An example being when we were looking to add swipe functionality to a web [app](https://github.com/Dmum303/MERNsters-inc), which none of us had experience with, and I strategically volunteered to learn and employ the tech for this which lead to the team being able to focus on solving other problems and increase our overall speed.
+- Whenever I find a useful resource that helped me I would share it with the team so we could all benefit from it. Usually this would be a blog post or video that explained a concept in a way that made sense to me. This usually leads to more time being spent on the actual work and less time spent on learning.
 - In labs where we were given a task to complete in a group, I would work flexibly to what the team needed. That includes taking on more challenging work and offering leadership where required.
 - I am capable of working in most roles and am able to adapt to any situation. This also means when staff members go sick I am often asked to cover their shifts as I am reliable and can be trusted to do the job well.
 
