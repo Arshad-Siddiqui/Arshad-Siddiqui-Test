@@ -26,12 +26,10 @@ Iceland Foods (2017 - current)
 
 Sales Assistant
 
-- Ensure effective communication with customers to share information in a polite and efficient way.
-- Maintain organisation to improve productivity for me and my colleagues.
-- Quickly adapt to store conditions and correctly prioritise the most critical work.
-- Manage tills, put out stock and prepare deliveries.
-- Check products are in date and ensure inventory count is accurate.
-- Distribute out work to newer staff members with the goal of easing them in and matching the load to their ability.
+- Provided exceptional customer service by warmly greeting and attentively listening to individual needs, while offering courteous assistance with merchandise selection and purchase completion, resulting in loyal, profitable customer relationships.
+- Accepted and processed cash, card and mobile payments using POS systems and check products are in date and ensure inventory count is accurate.
+- Prepare deliveries with precision and attention to detail while also being mindful of time constraints.
+- Maintain organisation standards to improve productivity for myself and colleagues whilst putting out stock.
 
 ## Skills
 
