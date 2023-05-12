@@ -70,7 +70,8 @@ Sales Assistant
 - Ruby (Rspec, Sinatra)
 - Go (net/http library, Fiber, testing library + testify/Ginkgo, GORM)
 - MongoDb/Postgres
-- Firebase, Postman, Heroku, TablePlus
+- Postman, TablePlus
+- Firebase, Heroku, Netlify, Vercel
 - Docker
 
 ## Education
@@ -104,6 +105,6 @@ Was able to further develop problem solving skills by learning scientific proces
 
 ## Interests
 
-Exercise, Videogames, Music
+Gym, Videogames, Music
 
 Books: Project Hail Mary, Bobbiverse and Harry Potter series.
