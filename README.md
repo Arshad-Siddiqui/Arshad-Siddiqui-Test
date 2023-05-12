@@ -4,9 +4,9 @@
 
 ## About Me
 
-A highly inquisitive and enthusiastic software developer and recent graduate from Makers Academy, bringing in a strong foundation in full-stack web development. Previously, I honed my skills through self-study with online resources, gaining a solid understanding of programming fundamentals. My time at Makers Academy further developed these skills, as I learned best practices for writing clean, test driven code as well as collaborated in groups through agile to build full-stack projects which helped boost my communication and teamwork skills.
+A highly inquisitive and enthusiastic software developer and recent graduate from Makers Academy, bringing in a strong foundation in full-stack web development. Previously, I honed my skills through self-study with online resources, gaining a solid understanding of programming fundamentals. My time at Makers Academy further developed these skills, as I learned best practices for writing clean, test driven code as well as collaborated in groups through agile to build full-stack projects (like this [one](https://mer-nsters-inc.vercel.app/)) which helped boost my communication and teamwork skills.
 
-What made me want to become a developer was the fun and engaging problem solving loop that rewards you for experimenting with different solutions. The vast resources available for learning it are very accessible so I was able to experience coding at a young age and have been hooked ever since. I'm looking for a role where I can continue to learn and improve my skills as well as help others do the same.
+What made me want to become a developer was the fun and engaging problem solving loop that rewards you for experimenting with different solutions. The wonderful community of developers all of whom are willing to help each other out is what makes me love this field and is also the reason I was able to get hooked from a young age. I'm looking for a role where I can continue to learn and improve my skills as well as help others do the same.
 
 ## Projects
 
@@ -29,7 +29,7 @@ Sales Assistant
 - Provided exceptional customer service by warmly greeting and attentively listening to individual needs, while offering courteous assistance with merchandise selection and purchase completion, resulting in loyal, profitable customer relationships.
 - Accepted and processed cash, card and mobile payments using POS systems and check products are in date and ensure inventory count is accurate.
 - Prepare deliveries with precision and attention to detail while also being mindful of time constraints.
-- Maintain organisation standards to improve productivity for myself and colleagues whilst putting out stock.
+- Maintain store organisation standards to improve productivity for myself and colleagues whilst putting out stock.
 
 ## Skills
 
@@ -61,7 +61,7 @@ Sales Assistant
 **Customer focused**
 
 - Conversing with many customers daily has helped me develop my communication skills. My strong pattern recognition skills helps me anticipate a customer's needs allowing me to help them more efficiently.
-- I keep to company policy despite the fact that it can be frustrating for customers. This is because I understand that it is important to follow the rules in order to maintain a good reputation and keep the business running smoothly.
+- I keep to company policy despite the fact that it can be frustrating for customers and am able to remain calm and proffesional in these situations. This is because I understand that it is important to follow the rules in order to maintain a good reputation and keep the business running smoothly.
 
 ### Technology
 
