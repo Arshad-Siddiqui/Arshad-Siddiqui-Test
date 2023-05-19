@@ -108,3 +108,5 @@ Was able to further develop problem solving skills by learning scientific proces
 Gym, Videogames, Music
 
 Books: Project Hail Mary, Bobbiverse and Harry Potter series.
+
+[CV in pdf form](https://resume.io/r/VLajGfndo)
